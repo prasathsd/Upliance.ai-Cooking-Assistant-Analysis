@@ -36,3 +36,14 @@ The 25-34 age group is highly engaged, with a focus on targeting this demographi
 
 Operational Insights: 
 Optimizing cooking session duration and managing order cancellations (especially with dishes like veggie burgers) will enhance user satisfaction and reduce churn
+
+## Repository Link
+
+You can clone this repository to your local machine using the following link:
+
+[https://github.com/prasathsd/Upliance.ai-Cooking-Assistant-Analysis](https://github.com/prasathsd/Upliance.ai-Cooking-Assistant-Analysis)
+
+To clone the repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/prasathsd/Upliance.ai-Cooking-Assistant-Analysis.git
